@@ -51,7 +51,7 @@ Tracing-autonomous-systems написана на языке программир
 Пример запуска:
 
 ```shell
-py tracer.py google.com
+py temp.py google.com
 ```
 
 Пример вывода:
